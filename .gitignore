@@ -1,0 +1,13 @@
+# Excluir configuraciones de espacio de trabajo y caché de Obsidian
+.obsidian/workspace
+.obsidian/workspace.json
+.obsidian/graph.json
+.obsidian/cache/
+
+# Opcional: Excluir copias de seguridad de plugins específicos (ej. Omnisearch)
+.obsidian/plugins/**/data.json.bak
+
+# Excluir archivos ocultos del sistema operativo
+.DS_Store
+Thumbs.db
+
