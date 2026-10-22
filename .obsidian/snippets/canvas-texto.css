@@ -1,0 +1,45 @@
+/* =======================================================
+   1. CONTROL DE TÍTULOS (Encabezados #)
+   ======================================================= */
+
+/* En modo lectura */
+.canvas-node-container h1,
+.canvas-node-container h2,
+.canvas-node-container h3 {
+    font-size: 30px !important; /* Ajusta aquí el tamaño de los títulos */
+}
+
+/* En modo edición (mientras escribes) */
+.canvas-node-container .cm-header {
+    font-size: 30px !important; /* Debe ser igual al de arriba */
+}
+
+
+/* =======================================================
+   2. CONTROL DE TEXTO NORMAL (Párrafos y descripciones)
+   ======================================================= */
+
+/* En modo lectura */
+.canvas-node-container p {
+    font-size: 24px !important; /* Ajusta aquí el tamaño del texto normal */
+}
+
+/* En modo edición (mientras escribes) */
+.canvas-node-container .cm-line:not(.cm-header):not(.cm-list-line) {
+    font-size: 24px !important; /* Debe ser igual al de arriba */
+}
+
+
+/* =======================================================
+   3. CONTROL DE LISTAS Y VIÑETAS (Por si quieres cambiarlas)
+   ======================================================= */
+
+/* En modo lectura */
+.canvas-node-container li {
+    font-size: 24px !important; /* Ajusta aquí el tamaño de las listas */
+}
+
+/* En modo edición (mientras escribes) */
+.canvas-node-container .cm-list-line {
+    font-size: 24px !important; /* Debe ser igual al de arriba */
+}

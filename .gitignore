@@ -4,10 +4,14 @@
 .obsidian/graph.json
 .obsidian/cache/
 
-# Opcional: Excluir copias de seguridad de plugins específicos (ej. Omnisearch)
+# PROTEGER PRIVACIDAD: Excluir configuraciones y credenciales de plugins
+.obsidian/plugins/**/data.json
 .obsidian/plugins/**/data.json.bak
+
+# PERMITIR SNIPPETS Y COMPLEMENTOS: Asegurar que las carpetas base se compartan
+!.obsidian/snippets/
+!.obsidian/plugins/
 
 # Excluir archivos ocultos del sistema operativo
 .DS_Store
 Thumbs.db
-

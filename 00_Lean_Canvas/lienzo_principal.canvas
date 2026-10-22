@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"b34b0c72c1a5e2b5","type":"file","file":"00_Lean_Canvas/Secciones/problema.md","subpath":"#🧩 PROBLEMA","x":-2560,"y":-1220,"width":400,"height":760,"color":"1"},
+		{"id":"3db075725a154fef","type":"file","file":"00_Lean_Canvas/Secciones/solucion.md","subpath":"#💡 SOLUCIÓN","x":-2140,"y":-1220,"width":400,"height":420,"color":"5"},
+		{"id":"8f80e571fc0c2faa","type":"file","file":"00_Lean_Canvas/Secciones/canales.md","subpath":"#📢 CANALES","x":-1300,"y":-760,"width":400,"height":300,"color":"#89f336"},
+		{"id":"a5c239ff110881d9","type":"file","file":"00_Lean_Canvas/Secciones/flujo_ingresos.md","subpath":"#💰 FLUJO DE INGRESOS","x":-1500,"y":-440,"width":1020,"height":320,"color":"#efb810"},
+		{"id":"c2200ba86117088a","type":"file","file":"00_Lean_Canvas/Secciones/ventaja_competitiva.md","subpath":"#🌟 VENTAJA COMPETITIVA","x":-1300,"y":-1220,"width":400,"height":420,"color":"3"},
+		{"id":"07642b314f9c0d16","type":"file","file":"00_Lean_Canvas/Secciones/segmento_clientes.md","subpath":"#🎯 SEGMENTO DE CLIENTES","x":-880,"y":-1220,"width":400,"height":760,"color":"4"},
+		{"id":"1d1abf0428bb6496","type":"file","file":"00_Lean_Canvas/Secciones/propuesta_valor.md","subpath":"#👑 PROPUESTA ÚNICA DE VALOR","x":-1720,"y":-1220,"width":400,"height":760,"color":"6"},
+		{"id":"bde73bd229f18d0a","type":"file","file":"00_Lean_Canvas/Secciones/metricas_clave.md","subpath":"#📊 METRICAS CLAVE","x":-2140,"y":-760,"width":400,"height":300,"color":"#b4f4f9"},
+		{"id":"fec2da55e0ad0177","type":"file","file":"00_Lean_Canvas/Secciones/estructura_costos.md","subpath":"#🧮 ESTRUCTURA DE COSTOS","x":-2560,"y":-440,"width":1020,"height":320}
+	],
+	"edges":[]
+}

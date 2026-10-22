@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"983cc50f6fc87cd0","type":"file","file":"00_Science_Lean_Canvas/Secciones/SLC_normativa.md","subpath":"#⚖️ Marco Regulatorio y Normativa","x":-2780,"y":-640,"width":460,"height":640,"color":"#2c3e50"},
+		{"id":"fec2da55e0ad0177","type":"file","file":"00_Science_Lean_Canvas/Secciones/SLC_trl_madurez_tecnologica.md","subpath":"#🔬 Matriz de Madurez Tecnológica (TRL)","x":-2780,"y":-1320,"width":460,"height":640,"color":"#6f9be2"},
+		{"id":"07642b314f9c0d16","type":"file","file":"00_Science_Lean_Canvas/Secciones/SLC_clientes.md","subpath":"#🎯 CLIENTES","x":-2280,"y":-1320,"width":460,"height":640,"color":"4"},
+		{"id":"b34b0c72c1a5e2b5","type":"file","file":"00_Science_Lean_Canvas/Secciones/SLC_problema.md","subpath":"#🧩 PROBLEMA","x":-2280,"y":-640,"width":460,"height":640,"color":"1"},
+		{"id":"1d1abf0428bb6496","type":"file","file":"00_Science_Lean_Canvas/Secciones/SLC_propuesta_valor.md","subpath":"#👑 PROPUESTA ÚNICA DE VALOR","x":-1780,"y":-1320,"width":460,"height":640,"color":"6"},
+		{"id":"3db075725a154fef","type":"file","file":"00_Science_Lean_Canvas/Secciones/SLC_solucion.md","subpath":"#💡 SOLUCIÓN","x":-1780,"y":-640,"width":460,"height":640,"color":"#5f4b16"},
+		{"id":"b979989958d8496c","type":"file","file":"00_Science_Lean_Canvas/Secciones/SLC_tam_sam_som.md","subpath":"#📊 TAMAÑO DEL MERCADO","x":-1280,"y":-1320,"width":460,"height":640,"color":"#113f5c"},
+		{"id":"8ba7f30a66f9cb99","type":"file","file":"00_Science_Lean_Canvas/Secciones/SLC_irl_madurez_inversion.md","subpath":"#📈 Matriz de Madurez para la Inversión (IRL)","x":-1280,"y":-640,"width":460,"height":640,"color":"#3d4a18"}
+	],
+	"edges":[]
+}
