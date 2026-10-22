@@ -18,7 +18,8 @@ Esta versión gratuita te permite evaluar tu idea inicial y medir tu madurez tec
 ## 🎨 Características de la Versión Gratuita
 * ### 📋 [[00_Lean_Canvas/lienzo_principal.canvas|Lean Canvas]]: 
   El plano de una sola página que resume tus hipótesis de negocio. Es la nota central desde donde enlazarás todas las herramientas de la bóveda.
-  ![Vista Previa del Lean Canvas en Obsidian](https://github.com/user-attachments/assets/9204c261-ec83-4eb8-91b2-546c2ea9b890)
+  ![Vista Previa del Lean Canvas en Obsidian](https://github.com/user-attachments/assets/3258f652-2819-4b1c-8d9b-63da06127a52)
+
   #### Los nueve bloques:
   1. [[00_Lean_Canvas/Secciones/segmento_clientes| Segmento de clientes]]
   2. [[00_Lean_Canvas/Secciones/problema| Problema]]
@@ -32,7 +33,8 @@ Esta versión gratuita te permite evaluar tu idea inicial y medir tu madurez tec
 * ### 🔬 [[science_lienzo_principal.canvas| Science Lean Canvas]]: 
   #### Los ocho bloques:
   El plano de una sola página enfocado en hipótesis de invención y mercado para emprendimientos de base científica y tecnológica. (*DeepTech*)
-  ![Vista Previa del Science Lean Canvas en Obsidian](https://github.com/user-attachments/assets/3258f652-2819-4b1c-8d9b-63da06127a52)
+  ![Vista Previa del Science Lean Canvas en Obsidian](https://github.com/user-attachments/assets/9204c261-ec83-4eb8-91b2-546c2ea9b890)
+
   1. [[SLC_trl_madurez_tecnologica | TRL madurez tecnológica]]
   2. [[SLC_normativa | Normativa]]
   3. [[SLC_clientes | Clientes]]
