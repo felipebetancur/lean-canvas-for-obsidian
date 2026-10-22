@@ -106,7 +106,7 @@ Mantener, traducir y optimizar marcos de trabajo de emprendimiento y de transfer
 
 Si quieres adaptar **cerebro-emprendedor** a las necesidades específicas de tu equipo, automatizar más flujos, conectar herramientas de terceros o delegar la carga de datos:
 
-* 🚀 **Contrátame en [Fiverr](https://www.fiverr.com/s/9ddgL1e) para configurar tu sistema a medida** y diseñar tu espacio de trabajo.
+* 🚀 **Contrátame en [Fiverr](https://www.fiverr.com/felipe_musdev) para configurar tu sistema a medida** y diseñar tu espacio de trabajo.
 * 📖 **Aprende más sobre metodologías de negocio, DeepTech y productividad en mi [blog](https://felipebetancur-blog.netlify.app/):** Guías avanzadas para fundadores técnicos.
 
 ---
